@@ -4,6 +4,11 @@
              x:Class="zadanieMAUI.MainPage">
     <StackLayout>
         <Label x:Name="trivia" Text="WELCOMENN"/>
-    <Button x:Name="Next" Text="Next" Clicked="Next_Clicked"/>
+
+        <RadioButton x:Name="a" Content="a"/>
+        <RadioButton x:Name="b" Content="b"/>
+        <RadioButton x:Name="c" Content="c"/>
+        <RadioButton x:Name="d" Content="d"/>
+        <Button x:Name="Next" Text="Next" Clicked="Next_Clicked"/>
     </StackLayout>
 </ContentPage>

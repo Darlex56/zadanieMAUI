@@ -6,6 +6,7 @@
     {
         FileReader fr = new FileReader();
         private int index = 0;
+
         public MainPage()
         {
             InitializeComponent();
