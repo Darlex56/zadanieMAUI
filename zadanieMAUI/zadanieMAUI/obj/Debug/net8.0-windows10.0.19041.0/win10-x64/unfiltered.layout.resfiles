@@ -66,5 +66,5 @@ splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 AboutAssets.txt
-answers.txt
-otazky.txt
+Resources\Texts\answers.txt
+Resources\Texts\otazky.txt

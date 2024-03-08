@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-08T14:14:25.123</Modified>
+      <Modified>2024-03-08T15:47:14.799</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-08T13:46:22.975</Modified>
+      <Modified>2024-03-08T15:46:42.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zadanieMAUI.runtimeconfig.json">
       <PackagePath>zadanieMAUI.runtimeconfig.json</PackagePath>
@@ -43,22 +43,22 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zadanieMAUI.dll">
       <PackagePath>zadanieMAUI.dll</PackagePath>
-      <Modified>2024-03-08T14:14:24.831</Modified>
+      <Modified>2024-03-08T15:47:14.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>zadanieMAUI.exe</PackagePath>
-      <Modified>2024-03-08T14:14:24.836</Modified>
+      <Modified>2024-03-08T15:47:14.547</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-02-26T19:14:30.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Raw\answers.txt">
-      <PackagePath>answers.txt</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Texts\answers.txt">
+      <PackagePath>Resources\Texts\answers.txt</PackagePath>
       <Modified>2024-03-08T11:22:54.226</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Raw\otazky.txt">
-      <PackagePath>otazky.txt</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Texts\otazky.txt">
+      <PackagePath>Resources\Texts\otazky.txt</PackagePath>
       <Modified>2024-03-08T09:40:17.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
@@ -331,7 +331,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zadanieMAUI.deps.json">
       <PackagePath>zadanieMAUI.deps.json</PackagePath>
-      <Modified>2024-03-08T09:42:13.851</Modified>
+      <Modified>2024-03-08T14:39:35.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

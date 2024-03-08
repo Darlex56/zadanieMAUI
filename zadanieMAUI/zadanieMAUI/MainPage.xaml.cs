@@ -10,6 +10,7 @@
         private int questionAnsweredCorrectly = 0;
         public MainPage()
         {
+            
             InitializeComponent();
             loadString();
         }

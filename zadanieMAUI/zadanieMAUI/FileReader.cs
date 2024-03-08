@@ -1,4 +1,5 @@
 ﻿using Microsoft.Maui.Controls.Shapes;
+using Microsoft.Maui.Storage;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +20,8 @@ namespace zadanieMAUI
 
         public void ReadFile() {
             int index = 0;
-            using (StreamReader sr = new StreamReader("C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\Resources\\Raw\\otazky.txt"))
+            Directory.SetCurrentDirectory(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory));
+            using (StreamReader sr = new StreamReader(@"Resources\Texts\otazky.txt"))
             {
                 while (!sr.EndOfStream)
                 {            
@@ -31,7 +33,7 @@ namespace zadanieMAUI
         public void alocateQuestions()
         {
             int index = 0;
-            using (StreamReader sr = new StreamReader("C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\Resources\\Raw\\answers.txt"))
+            using (StreamReader sr = new StreamReader(@"Resources\Texts\answers.txt"))
             {
                 while (!sr.EndOfStream)
                 {
