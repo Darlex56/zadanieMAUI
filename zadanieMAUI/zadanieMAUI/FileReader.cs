@@ -14,6 +14,7 @@ namespace zadanieMAUI
         public Dictionary<int, string> trivia = new Dictionary<int, string>();
         public Dictionary<int, string[]> questions = new Dictionary<int, string[]>();
         public string[] rightQuestions = { "Japan", "World Wide Web", "Leonardo da Vinci", "Web browsers", "2004", "Vin Diesel", "Madonna", "Three", "Cheetah", "Yellow" };
+        public string[] images = { "starbucks.png", "dotnet_bot.png", "monalisa.jpg", "webrowser.jpg", "facebook.png", "groot.jpg", "materialgirl.jpg", "octopusl.jpg", "gato.jpg", "frog.jpg" };
         int index = 0;
 
         public void ReadFile() {

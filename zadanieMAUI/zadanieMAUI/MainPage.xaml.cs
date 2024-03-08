@@ -20,17 +20,14 @@
         }
 
         private void Next_Clicked(object sender, EventArgs e)
-        {
-                        
+        {              
             string selectedValue = checkRadioButton();
-            
+           
             if (selectedValue == fr.rightQuestions[index])
             {
                 questionAnsweredCorrectly++;
             }
             nextQuestion();
-          
-
         }
         
         private string checkRadioButton() {
@@ -56,6 +53,7 @@
             if(fr.questions.Count - 1 != index) {               
                 index++;
                 trivia.Text = fr.trivia[index];
+                img.Source = fr.images[index];
                 changeRadioButton();
             }
             else 
@@ -64,25 +62,25 @@
         }
         private void Begin_Clicked(object sender, EventArgs e)
         {
+            img.IsVisible = true;
             Begin.IsVisible = false;
-            Next.IsVisible = true;
-            a.IsVisible = true;
-            b.IsVisible = true;
-            c.IsVisible = true;
-            d.IsVisible = true;
+            triviaForm.IsVisible = true;
+            welcomeForm.IsVisible = false;
 
             nextQuestion();
         }
-        private void finalScreen() {
-            trivia.IsVisible = false;
-            Next.IsVisible = false;
-            a.IsVisible = false;
-            b.IsVisible = false;
-            c.IsVisible = false;
-            d.IsVisible = false;
-            finalLabel.IsVisible = true;
+        private void finalScreen() 
+        {
+            img.IsVisible= false;
+            triviaForm.IsVisible= false;
+            finalForm.IsVisible = true;
 
             finalLabel.Text = "You've answered " + questionAnsweredCorrectly + "/" + fr.questions.Count + " correctly";
+        }
+
+        private void exit_Clicked(object sender, EventArgs e)
+        {
+            return;
         }
     }
 

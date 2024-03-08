@@ -220,6 +220,33 @@
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\facebook.scale-100.png">
+      <PackagePath>facebook.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\frog.scale-100.jpg">
+      <PackagePath>frog.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gato.scale-100.jpg">
+      <PackagePath>gato.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\groot.scale-100.jpg">
+      <PackagePath>groot.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\materialgirl.scale-100.jpg">
+      <PackagePath>materialgirl.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\monalisa.scale-100.jpg">
+      <PackagePath>monalisa.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\octopusl.scale-100.jpg">
+      <PackagePath>octopusl.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\starbucks.scale-100.png">
+      <PackagePath>starbucks.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\webrowser.scale-100.jpg">
+      <PackagePath>webrowser.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zadanieMAUI.deps.json">
       <PackagePath>zadanieMAUI.deps.json</PackagePath>
     </AppxPackagedFile>

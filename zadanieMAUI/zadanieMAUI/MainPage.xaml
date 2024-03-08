@@ -2,14 +2,37 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="zadanieMAUI.MainPage">
-    <StackLayout>
-        <Label x:Name="trivia" Text="WELCOMENN"/>
-        <RadioButton x:Name="a" Content="a" GroupName="radioButton" IsVisible="false"/>
-        <RadioButton x:Name="b" Content="b" GroupName="radioButton" IsVisible="false"/>
-        <RadioButton x:Name="c" Content="c" GroupName="radioButton" IsVisible="false"/>
-        <RadioButton x:Name="d" Content="d" GroupName="radioButton" IsVisible="false"/>
-        <Button x:Name="Begin" Text="Begin" Clicked="Begin_Clicked"/>
-        <Label x:Name="finalLabel" IsVisible="false"/>
-        <Button x:Name="Next" Text="Next" IsVisible="false" Clicked="Next_Clicked"/>
-    </StackLayout>
+    <FlexLayout JustifyContent="Center">
+
+        <StackLayout Margin="50"  HeightRequest="300" WidthRequest="300">
+            
+            
+            <StackLayout x:Name="welcomeForm" IsVisible="true">
+                <Label x:Name="welcomeLabel" Text="Welcome to the trivia" HorizontalOptions="Center"/>
+                <Button x:Name="Begin" Text="Begin" Clicked="Begin_Clicked" HorizontalOptions="Center"/>
+            </StackLayout>
+
+            <StackLayout x:Name="triviaForm" IsVisible="false">
+                <Label x:Name="trivia"/>
+                <RadioButton x:Name="a" GroupName="radioButton" />
+                <RadioButton x:Name="b" GroupName="radioButton"/>
+                <RadioButton x:Name="c" GroupName="radioButton" />
+                <RadioButton x:Name="d" GroupName="radioButton" />
+                <Button x:Name="Next" Text="Next" Clicked="Next_Clicked"/>
+            </StackLayout>
+
+            <StackLayout x:Name="finalForm" IsVisible="false" HorizontalOptions="Center">
+                <Label x:Name="finalLabel" />
+                <Button x:Name="exit" Text="Exit" Clicked="exit_Clicked"/>
+            </StackLayout>
+        </StackLayout >
+        
+        <StackLayout Margin="50" HeightRequest="300" WidthRequest="300">
+                <Image x:Name="img"  IsVisible="false" Source="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Images\facebook.png"/>
+        </StackLayout>
+        
+
+        
+
+    </FlexLayout>
 </ContentPage>
