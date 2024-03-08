@@ -247,6 +247,9 @@
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\webrowser.scale-100.jpg">
       <PackagePath>webrowser.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\www.scale-100.jpg">
+      <PackagePath>www.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zadanieMAUI.deps.json">
       <PackagePath>zadanieMAUI.deps.json</PackagePath>
     </AppxPackagedFile>

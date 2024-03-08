@@ -12,26 +12,24 @@ namespace zadanieMAUI
 
     internal class FileReader
     {
-        public Dictionary<int, string> trivia = new Dictionary<int, string>();
-        public Dictionary<int, string[]> questions = new Dictionary<int, string[]>();
-        public string[] rightQuestions = { "Japan", "World Wide Web", "Leonardo da Vinci", "Web browsers", "2004", "Vin Diesel", "Madonna", "Three", "Cheetah", "Yellow" };
-        public string[] images = { "starbucks.png", "dotnet_bot.png", "monalisa.jpg", "webrowser.jpg", "facebook.png", "groot.jpg", "materialgirl.jpg", "octopusl.jpg", "gato.jpg", "frog.jpg" };
         int index = 0;
 
-        public void ReadFile() {
+        public void ReadFile(Dictionary<int, string> trivia) {
             int index = 0;
+            //Nastavenie currentDirectory a  pridavanie otazok do Dictionary
             Directory.SetCurrentDirectory(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory));
             using (StreamReader sr = new StreamReader(@"Resources\Texts\otazky.txt"))
             {
                 while (!sr.EndOfStream)
-                {            
+                {
                     trivia.Add(index, sr.ReadLine());
                     index++;
                 }
            }
         }
-        public void alocateQuestions()
+        public void alocateQuestions(Dictionary<int, string[]> questions)
         {
+            //Pridavanie roznych odpovedi do Dictionary
             int index = 0;
             using (StreamReader sr = new StreamReader(@"Resources\Texts\answers.txt"))
             {

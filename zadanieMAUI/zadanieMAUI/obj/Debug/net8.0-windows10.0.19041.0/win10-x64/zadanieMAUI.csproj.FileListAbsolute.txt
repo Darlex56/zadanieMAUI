@@ -185,3 +185,4 @@ C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0
 C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\webrowser.scale-100.jpg
 C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\octopusl.scale-100.jpg
 C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\starbucks.scale-100.png
+C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\www.scale-100.jpg
