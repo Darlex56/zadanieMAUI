@@ -8,5 +8,6 @@ namespace zadanieMAUI
 {
     internal class loadQuestion
     {
+        FileReader fr = new FileReader();
     }
 }

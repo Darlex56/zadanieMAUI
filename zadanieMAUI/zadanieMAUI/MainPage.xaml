@@ -5,10 +5,11 @@
     <StackLayout>
         <Label x:Name="trivia" Text="WELCOMENN"/>
 
-        <RadioButton x:Name="a" Content="a"/>
-        <RadioButton x:Name="b" Content="b"/>
-        <RadioButton x:Name="c" Content="c"/>
-        <RadioButton x:Name="d" Content="d"/>
-        <Button x:Name="Next" Text="Next" Clicked="Next_Clicked"/>
+        <RadioButton x:Name="a" Content="a" GroupName="radioButton" Value="a"/>
+        <RadioButton x:Name="b" Content="b" GroupName="radioButton"/>
+        <RadioButton x:Name="c" Content="c" GroupName="radioButton"/>
+        <RadioButton x:Name="d" Content="d" GroupName="radioButton"/>
+        <Button x:Name="Begin" Text="Begin" Clicked="Begin_Clicked"/>
+        <Button x:Name="Next" Text="Next" IsVisible="false" Clicked="Next_Clicked"/>
     </StackLayout>
 </ContentPage>

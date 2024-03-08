@@ -40,6 +40,9 @@
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Raw\answers.txt">
+      <PackagePath>answers.txt</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\GUI\zadanieMAUI\zadanieMAUI\zadanieMAUI\Resources\Raw\otazky.txt">
       <PackagePath>otazky.txt</PackagePath>
     </AppxPackagedFile>

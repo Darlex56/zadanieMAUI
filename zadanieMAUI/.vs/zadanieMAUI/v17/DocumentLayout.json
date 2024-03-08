@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\loadquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\loadquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\resources\\raw\\answers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\resources\\raw\\answers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\resources\\raw\\otazky.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\resources\\raw\\otazky.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|c:\\users\\daniel\\desktop\\gui\\zadaniemaui\\zadaniemaui\\zadaniemaui\\loadquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105CEAA3-820B-4093-85DB-E37F26EBEDA2}|zadanieMAUI\\zadanieMAUI.csproj|solutionrelative:zadaniemaui\\loadquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "answers.txt",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\Resources\\Raw\\answers.txt",
+              "RelativeDocumentMoniker": "zadanieMAUI\\Resources\\Raw\\answers.txt",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\Resources\\Raw\\answers.txt",
+              "RelativeToolTip": "zadanieMAUI\\Resources\\Raw\\answers.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-08T11:21:43.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "otazky.txt",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\Resources\\Raw\\otazky.txt",
+              "RelativeDocumentMoniker": "zadanieMAUI\\Resources\\Raw\\otazky.txt",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\Resources\\Raw\\otazky.txt",
+              "RelativeToolTip": "zadanieMAUI\\Resources\\Raw\\otazky.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-08T11:21:41.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "zadanieMAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "zadanieMAUI\\MainPage.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAvwCwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:26:53.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "loadQuestion.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\loadQuestion.cs",
               "RelativeDocumentMoniker": "zadanieMAUI\\loadQuestion.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\loadQuestion.cs",
               "RelativeToolTip": "zadanieMAUI\\loadQuestion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T09:55:47.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\MainPage.xaml",
               "RelativeDocumentMoniker": "zadanieMAUI\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\MainPage.xaml",
               "RelativeToolTip": "zadanieMAUI\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-02-27T18:44:21.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FileReader.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\FileReader.cs",
               "RelativeDocumentMoniker": "zadanieMAUI\\FileReader.cs",
               "ToolTip": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\FileReader.cs",
               "RelativeToolTip": "zadanieMAUI\\FileReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T18:26:55.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "zadanieMAUI\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\GUI\\zadanieMAUI\\zadanieMAUI\\zadanieMAUI\\MainPage.xaml.cs",
-              "RelativeToolTip": "zadanieMAUI\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T18:26:53.653Z",
               "EditorCaption": ""
             }
           ]

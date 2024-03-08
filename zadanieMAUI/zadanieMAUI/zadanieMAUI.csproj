@@ -57,6 +57,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Raw\answers.txt" />
 	  <None Remove="Resources\raw\otazky.txt" />
 	</ItemGroup>
 
